@@ -1,4 +1,4 @@
-# hands on neo4j new cypher Spec 
+# hands on neo4j new cypher spec 
 
 Simple example of neo4j powerful query engine.
 
